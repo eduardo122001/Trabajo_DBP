@@ -15,7 +15,6 @@ const num=document.querySelectorAll(".paso .num");
 let max=4;
 let cont=1;
 
-
 btn_adelante2.addEventListener("click",function(e){
     e.preventDefault();
     movpag.style.marginLeft="-25%";
