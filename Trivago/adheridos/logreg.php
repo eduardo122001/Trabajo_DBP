@@ -3,7 +3,7 @@
 
 <head>
     <title> Login/Register </title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/logreg_style.css">
 </head>
 
 <body>
@@ -64,6 +64,6 @@
 
     </div> 
 
-    <script src="js/script.js"></script>
+    <script src="../js/script.js"></script>
 </body>
 </html>

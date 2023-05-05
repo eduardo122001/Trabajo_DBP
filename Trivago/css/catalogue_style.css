@@ -9,7 +9,7 @@ img {
  
 /* Fondo */
 body {
-  background: url(img/reservation_bk.jpg);
+  background: url(../img/reservation_bk.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

@@ -1,6 +1,12 @@
 <?php 
 
-include("con_regdb.php");
+$server="localhost";
+$user="root";
+$pass="";
+$db="datosdbp";
+
+$conex = mysqli_connect("localhost", "root", "", "datosdbp"); 
+// $conexion= new mysqli($server, $user, $pass, $db);
 /*
 if($conex) {
 	echo "todo correcto";
