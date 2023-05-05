@@ -15,7 +15,7 @@ if (isset($_POST['register'])) { //Si se apreta "enviar consulta"
 		$user = trim($_POST['user']);
 		$cont = trim($_POST['cont']);
 	    $fechareg = date("d/m/y"); // Dia mes y año fecha registro
-	    $consulta = "INSERT INTO datos(nombre, email, username, password, fechareg) VALUES ('$name','$email','$user','$cont','$fechareg')"; //SQL INSERT COPY/PASTE
+	    $consulta = "INSERT INTO datosregister(nombre, email, username, password, fechareg) VALUES ('$name','$email','$user','$cont','$fechareg')"; //SQL INSERT COPY/PASTE
 	    $resultado = mysqli_query($conex,$consulta);
 	    if ($resultado) { // Si resultado es correcto
 	    	?> 

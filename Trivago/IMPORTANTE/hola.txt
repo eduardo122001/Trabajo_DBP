@@ -1,4 +1,4 @@
 esta carpeta "Trivago" va en xampp/htdocs
-adjunto las bases de datos en imagen (como es la estructura)
-- inicsesion database.png
-- register database.png
+adjunto las estructuras de cada tabla de la base de datos datos dbp
+- datoslogin.png
+- datosregister.png

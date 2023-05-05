@@ -13,7 +13,7 @@ if (isset($_POST['login'])) { //Si se apreta "enviar consulta"
 	    $username = trim($_POST['username']);
 	    $password = trim($_POST['passw']);
 	    $fechareg = date("d/m/y"); // Dia mes y año fecha registro
-	    $consulta = "INSERT INTO datos(username, password, fechareg) VALUES ('$username','$password','$fechareg')"; //SQL INSERT COPY/PASTE
+	    $consulta = "INSERT INTO datoslogin(username, password, fechareg) VALUES ('$username','$password','$fechareg')"; //SQL INSERT COPY/PASTE
 	    $resultado = mysqli_query($conex,$consulta);
 	    if ($resultado) { // Si resultado es correcto
 	    	?> 
