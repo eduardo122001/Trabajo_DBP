@@ -15,6 +15,7 @@ const num=document.querySelectorAll(".paso .num");
 let max=4;
 let cont=1;
 
+
 btn_adelante2.addEventListener("click",function(e){
     e.preventDefault();
     movpag.style.marginLeft="-25%";
@@ -42,14 +43,14 @@ btn_adelante4.addEventListener("click",function(e){
     cont +=1;
 });
 
-btn_final.addEventListener("click",function(e){
+/*btn_final.addEventListener("click",function(e){
     e.preventDefault();
     num[cont-1].classList.add("active");
     progreso_check[cont-1].classList.add("active");
     progreso_texto[cont-1].classList.add("active");
     cont +=1;
-    alert("SU RESERVACION FUE HECHA CON EXITO")
-});
+  //  alert("SU RESERVACION FUE HECHA CON EXITO")
+});*/
 
 btn_atras1.addEventListener("click",function(e){
     e.preventDefault();
@@ -62,7 +63,7 @@ btn_atras1.addEventListener("click",function(e){
 
 btn_atras2.addEventListener("click",function(e){
     e.preventDefault();
-    movpag.style.marginLeft="-25%";
+    movpag.style.marginLeft="-25%"; 
         num[cont-2].classList.remove("active");
     progreso_check[cont-2].classList.remove("active");
     progreso_texto[cont-2].classList.remove("active");
