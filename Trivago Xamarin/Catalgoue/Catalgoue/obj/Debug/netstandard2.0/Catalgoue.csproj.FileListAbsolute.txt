@@ -1,0 +1,15 @@
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\bin\Debug\netstandard2.0\Catalgoue.deps.json
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\bin\Debug\netstandard2.0\Catalgoue.dll
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\bin\Debug\netstandard2.0\ref\Catalgoue.dll
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\bin\Debug\netstandard2.0\Catalgoue.pdb
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\obj\Debug\netstandard2.0\Catalgoue.csproj.AssemblyReference.cache
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\obj\Debug\netstandard2.0\Catalgoue.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\obj\Debug\netstandard2.0\Catalgoue.AssemblyInfoInputs.cache
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\obj\Debug\netstandard2.0\Catalgoue.AssemblyInfo.cs
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\obj\Debug\netstandard2.0\Catalgoue.csproj.CoreCompileInputs.cache
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\obj\Debug\netstandard2.0\XamlC.stamp
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\obj\Debug\netstandard2.0\Catalgoue.dll
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\obj\Debug\netstandard2.0\refint\Catalgoue.dll
+C:\MyStuff\GitHub\DBP\Catalgoue\Catalgoue\obj\Debug\netstandard2.0\Catalgoue.pdb
