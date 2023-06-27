@@ -1,0 +1,15 @@
+D:\XAMARIN\iniciarsesion\iniciarsesion\obj\Debug\netstandard2.0\iniciarsesion.csproj.AssemblyReference.cache
+D:\XAMARIN\iniciarsesion\iniciarsesion\obj\Debug\netstandard2.0\iniciarsesion.GeneratedMSBuildEditorConfig.editorconfig
+D:\XAMARIN\iniciarsesion\iniciarsesion\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XAMARIN\iniciarsesion\iniciarsesion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\XAMARIN\iniciarsesion\iniciarsesion\obj\Debug\netstandard2.0\iniciarsesion.AssemblyInfoInputs.cache
+D:\XAMARIN\iniciarsesion\iniciarsesion\obj\Debug\netstandard2.0\iniciarsesion.AssemblyInfo.cs
+D:\XAMARIN\iniciarsesion\iniciarsesion\obj\Debug\netstandard2.0\iniciarsesion.csproj.CoreCompileInputs.cache
+D:\XAMARIN\iniciarsesion\iniciarsesion\bin\Debug\netstandard2.0\iniciarsesion.deps.json
+D:\XAMARIN\iniciarsesion\iniciarsesion\bin\Debug\netstandard2.0\iniciarsesion.dll
+D:\XAMARIN\iniciarsesion\iniciarsesion\bin\Debug\netstandard2.0\ref\iniciarsesion.dll
+D:\XAMARIN\iniciarsesion\iniciarsesion\bin\Debug\netstandard2.0\iniciarsesion.pdb
+D:\XAMARIN\iniciarsesion\iniciarsesion\obj\Debug\netstandard2.0\XamlC.stamp
+D:\XAMARIN\iniciarsesion\iniciarsesion\obj\Debug\netstandard2.0\iniciarsesion.dll
+D:\XAMARIN\iniciarsesion\iniciarsesion\obj\Debug\netstandard2.0\refint\iniciarsesion.dll
+D:\XAMARIN\iniciarsesion\iniciarsesion\obj\Debug\netstandard2.0\iniciarsesion.pdb

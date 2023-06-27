@@ -1,0 +1,15 @@
+D:\XAMARIN\login\login\bin\Debug\netstandard2.0\login.deps.json
+D:\XAMARIN\login\login\bin\Debug\netstandard2.0\login.dll
+D:\XAMARIN\login\login\bin\Debug\netstandard2.0\ref\login.dll
+D:\XAMARIN\login\login\bin\Debug\netstandard2.0\login.pdb
+D:\XAMARIN\login\login\obj\Debug\netstandard2.0\login.csproj.AssemblyReference.cache
+D:\XAMARIN\login\login\obj\Debug\netstandard2.0\login.GeneratedMSBuildEditorConfig.editorconfig
+D:\XAMARIN\login\login\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XAMARIN\login\login\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\XAMARIN\login\login\obj\Debug\netstandard2.0\login.AssemblyInfoInputs.cache
+D:\XAMARIN\login\login\obj\Debug\netstandard2.0\login.AssemblyInfo.cs
+D:\XAMARIN\login\login\obj\Debug\netstandard2.0\login.csproj.CoreCompileInputs.cache
+D:\XAMARIN\login\login\obj\Debug\netstandard2.0\XamlC.stamp
+D:\XAMARIN\login\login\obj\Debug\netstandard2.0\login.dll
+D:\XAMARIN\login\login\obj\Debug\netstandard2.0\refint\login.dll
+D:\XAMARIN\login\login\obj\Debug\netstandard2.0\login.pdb
