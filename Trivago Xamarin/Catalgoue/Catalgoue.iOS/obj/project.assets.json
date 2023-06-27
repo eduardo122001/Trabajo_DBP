@@ -1253,11 +1253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyStuff\\GitHub\\DBP\\Catalgoue\\Catalgoue.iOS\\Catalgoue.iOS.csproj",
+      "projectUniqueName": "C:\\MyStuff\\Trabajo_DBP\\Trivago Xamarin\\Catalgoue\\Catalgoue.iOS\\Catalgoue.iOS.csproj",
       "projectName": "Catalgoue.iOS",
-      "projectPath": "C:\\MyStuff\\GitHub\\DBP\\Catalgoue\\Catalgoue.iOS\\Catalgoue.iOS.csproj",
+      "projectPath": "C:\\MyStuff\\Trabajo_DBP\\Trivago Xamarin\\Catalgoue\\Catalgoue.iOS\\Catalgoue.iOS.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\MyStuff\\GitHub\\DBP\\Catalgoue\\Catalgoue.iOS\\obj\\",
+      "outputPath": "C:\\MyStuff\\Trabajo_DBP\\Trivago Xamarin\\Catalgoue\\Catalgoue.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1278,8 +1278,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\MyStuff\\GitHub\\DBP\\Catalgoue\\Catalgoue\\Catalgoue.csproj": {
-              "projectPath": "C:\\MyStuff\\GitHub\\DBP\\Catalgoue\\Catalgoue\\Catalgoue.csproj"
+            "C:\\MyStuff\\Trabajo_DBP\\Trivago Xamarin\\Catalgoue\\Catalgoue\\Catalgoue.csproj": {
+              "projectPath": "C:\\MyStuff\\Trabajo_DBP\\Trivago Xamarin\\Catalgoue\\Catalgoue\\Catalgoue.csproj"
             }
           }
         }

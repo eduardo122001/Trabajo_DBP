@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638233106902528916
+_nugetassetstimestamp=638234149173388631
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\mystuff\github\dbp\catalgoue\catalgoue.android\catalgoue.android.csproj
+projectfullpath=c:\mystuff\trabajo_dbp\trivago xamarin\catalgoue\catalgoue.android\catalgoue.android.csproj

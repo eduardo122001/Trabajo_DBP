@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyStuff\\GitHub\\DBP\\Catalgoue\\Catalgoue.Android\\Catalgoue.Android.csproj",
+      "projectUniqueName": "C:\\MyStuff\\Trabajo_DBP\\Trivago Xamarin\\Catalgoue\\Catalgoue.Android\\Catalgoue.Android.csproj",
       "projectName": "Catalgoue.Android",
-      "projectPath": "C:\\MyStuff\\GitHub\\DBP\\Catalgoue\\Catalgoue.Android\\Catalgoue.Android.csproj",
+      "projectPath": "C:\\MyStuff\\Trabajo_DBP\\Trivago Xamarin\\Catalgoue\\Catalgoue.Android\\Catalgoue.Android.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\MyStuff\\GitHub\\DBP\\Catalgoue\\Catalgoue.Android\\obj\\",
+      "outputPath": "C:\\MyStuff\\Trabajo_DBP\\Trivago Xamarin\\Catalgoue\\Catalgoue.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\MyStuff\\GitHub\\DBP\\Catalgoue\\Catalgoue\\Catalgoue.csproj": {
-              "projectPath": "C:\\MyStuff\\GitHub\\DBP\\Catalgoue\\Catalgoue\\Catalgoue.csproj"
+            "C:\\MyStuff\\Trabajo_DBP\\Trivago Xamarin\\Catalgoue\\Catalgoue\\Catalgoue.csproj": {
+              "projectPath": "C:\\MyStuff\\Trabajo_DBP\\Trivago Xamarin\\Catalgoue\\Catalgoue\\Catalgoue.csproj"
             }
           }
         }
@@ -3452,14 +3452,6 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.7.0, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

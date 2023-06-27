@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1yaVvqfPAVUpT3J/8ETP50k9hMadvm+UNDjMm73RfwKrStFyXa8nrklPB5hzP/Ckwl6PQmuZhrdw7J/T6aakCA==",
+  "dgSpecHash": "CThL1yFt2nYSpXetrDBnlTUGGu0cpZrzK5HpOIomyvTK89ObzHfTu2an2tMBs6tynBul4wHW5inaoO/AxVTghw==",
   "success": true,
-  "projectFilePath": "C:\\MyStuff\\GitHub\\DBP\\Catalgoue\\Catalgoue.Android\\Catalgoue.Android.csproj",
+  "projectFilePath": "C:\\MyStuff\\Trabajo_DBP\\Trivago Xamarin\\Catalgoue\\Catalgoue.Android\\Catalgoue.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

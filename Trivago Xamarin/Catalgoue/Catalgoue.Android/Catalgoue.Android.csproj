@@ -67,11 +67,6 @@
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
-    <EmbeddedResource Include="Resources\img\h1.webp" />
-    <EmbeddedResource Include="Resources\img\h2.webp" />
-    <EmbeddedResource Include="Resources\img\h5.webp" />
-    <EmbeddedResource Include="Resources\img\h6.webp" />
-    <EmbeddedResource Include="Resources\img\h8.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\styles.xml" />
@@ -97,15 +92,6 @@
       <Project>{995CB082-4F36-4AA5-B034-B3E04BE20DAE}</Project>
       <Name>Catalgoue</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Resources\img\h3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Resources\img\h4.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Resources\img\h7.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
