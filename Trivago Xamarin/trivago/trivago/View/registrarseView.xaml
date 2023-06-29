@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="trivago.View.registrarseView">
+    <ContentPage.Content>
+        <Frame BackgroundColor="#ADD8E6" Margin="20" Padding="10" CornerRadius="10">
+            <StackLayout>
+                <Frame BackgroundColor="#87CEEB" Margin="0,0,0,10" Padding="5" CornerRadius="5">
+                    <Label x:Name="x_principal"
+                           Text="Registrarse"
+                           FontSize="Large"
+                           Margin="8"
+                           TextColor="Black"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center" />
+                </Frame>
+
+                <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+                    <Frame BackgroundColor="#87CEEB" Margin="0,0,10,0" Padding="5" CornerRadius="5">
+                        <Label Text="Ingrese su nombre:" FontSize="Medium" TextColor="Black" VerticalOptions="Center" />
+                    </Frame>
+                    <Entry x:Name="x_nombre" Placeholder="" FontSize="Medium" TextColor="Black" HorizontalOptions="FillAndExpand" />
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+                    <Frame BackgroundColor="#87CEEB" Margin="0,0,10,0" Padding="5" CornerRadius="5">
+                        <Label Text="Ingrese sus apellidos:" FontSize="Medium" TextColor="Black" VerticalOptions="Center" />
+                    </Frame>
+                    <Entry x:Name="x_apellido" Placeholder="" FontSize="Medium" TextColor="Black" HorizontalOptions="FillAndExpand" />
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+                    <Frame BackgroundColor="#87CEEB" Margin="0,0,10,0" Padding="5" CornerRadius="5">
+                        <Label Text="Ingrese su correo:" FontSize="Medium" TextColor="Black" VerticalOptions="Center" />
+                    </Frame>
+                    <Entry x:Name="x_correo" Placeholder="" FontSize="Medium" TextColor="Black" HorizontalOptions="FillAndExpand" />
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+                    <Frame BackgroundColor="#87CEEB" Margin="0,0,10,0" Padding="5" CornerRadius="5">
+                        <Label Text="Ingrese su contraseña:" FontSize="Medium" TextColor="Black" VerticalOptions="Center" />
+                    </Frame>
+                    <Entry x:Name="x_contraseña" Placeholder="" FontSize="Medium" TextColor="Black" HorizontalOptions="FillAndExpand" />
+                </StackLayout>
+
+                <Button x:Name="btn_guardar" Text="guardar" Clicked="btn_guardar_Clicked"/>
+                <Button x:Name="reregresar" Text="regresar" Clicked="reregresar_Clicked"/>
+            </StackLayout>
+        </Frame>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,17 @@
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\trivago.csproj.AssemblyReference.cache
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\trivago.GeneratedMSBuildEditorConfig.editorconfig
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\View\botonView.xaml.g.cs
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\View\iniciarsesionView.xaml.g.cs
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\View\registrarseView.xaml.g.cs
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\trivago.AssemblyInfoInputs.cache
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\trivago.AssemblyInfo.cs
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\trivago.csproj.CoreCompileInputs.cache
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\trivago.dll
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\refint\trivago.dll
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\trivago.pdb
+D:\XAMARIN\trivago\trivago\bin\Debug\netstandard2.0\trivago.deps.json
+D:\XAMARIN\trivago\trivago\bin\Debug\netstandard2.0\trivago.dll
+D:\XAMARIN\trivago\trivago\bin\Debug\netstandard2.0\ref\trivago.dll
+D:\XAMARIN\trivago\trivago\bin\Debug\netstandard2.0\trivago.pdb
+D:\XAMARIN\trivago\trivago\obj\Debug\netstandard2.0\XamlC.stamp
